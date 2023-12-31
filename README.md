@@ -1,10 +1,12 @@
+<!-- Should center and size this image -->
 ![Jace's Avatar](pic.png)
 
 # Reading Notes (a journal of sorts)
 
 While I am uncertain of the exact direction my journal will take as I advance in my studies, I am very enthusiastic about embarking on this new journey in coding.
 
-## A Short Introduction :sunglasses:
+<!-- Had to copy and paste an emoji in here because :sunglasses: did not work. Google search yielded it may be an UTF-8 encoding issue. -->
+## A Short Introduction 😎
 
 Greetings! My name is Jace. As of December 30, 2023, I've embarked on an exciting journey to master modern coding techniques. I'm eager to contribute meaningfully to the industry soon and make a positive impact with my newfound skills. To learn more about my projects and progress, feel free to visit my GitHub profile [here](https://github.com/CodeHard84).
 
@@ -19,5 +21,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - Committing to learning something new every day, thereby continuously expanding my knowledge and skills.
 - Constantly refining and improving my abilities by embracing innovative and more efficient methods, and dedicating myself to regular practice and application. This approach ensures that I am always evolving and adapting, ready to meet new challenges and opportunities with confidence and skill.
 
+<!-- This looks really cool when viewing the README.md from the repo but it does not work on github pages.
 > [!NOTE]
 > This document is a work in progress and will be updated periodically. Please revisit occasionally to view the latest changes and additions.
+-->
