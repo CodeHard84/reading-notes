@@ -13,7 +13,7 @@ Greetings! My name is Jace. As of December 30, 2023, I've embarked on an excitin
 
 The growth mindset challenges the old adage "You can't teach an old dog new tricks," embodying the belief that we can evolve and expand our capabilities throughout our lives. Every day, in various aspects of our lives, we encounter opportunities for growth, learning, and adaptation. Embracing the growth mindset means acknowledging and embracing the constant changes in our world, committing to lifelong learning, and continuously striving to add value in our endeavors. It's about fostering resilience, nurturing a positive outlook towards challenges, and steadfastly refusing to doubt our potential or capabilities. This mindset isn't just about personal development; it's a transformative approach that encourages us to see beyond limitations, embrace change, and persistently pursue excellence and improvement in all we do.
 
-### I will maintain a growth mindset by adhering to the following principles
+## I will maintain a growth mindset by adhering to the following principles
 
 - Recognizing that abilities I lack today can be developed and mastered in the future through perseverance and effort.
 - Committing to learning something new every day, thereby continuously expanding my knowledge and skills.
@@ -23,3 +23,34 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 > [!NOTE]
 > This document is a work in progress and will be updated periodically. Please revisit occasionally to view the latest changes and additions.
 -->
+
+## Further Reading Table of Contents
+
+### Code 102 Reading Notes
+
+- [Markdown for Newbies](102/102-class01.md)
+- [Aspiring Coder Tools](102/102-class02.md)
+- [Coming Soon](102/102-class03.md)
+- [Coming Soon](102/102-class04.md)
+- [Coming Soon](102/102-class05.md)
+- [Coming Soon](102/102-class06.md)
+- [Coming Soon](102/102-class07.md)
+- [Coming Soon](102/102-class08.md)
+
+### Code 201 Reading Notes
+
+- [Coming Soon](201/201-class01.md)
+- [Coming Soon](201/201-class02.md)
+- [Coming Soon](201/201-class03.md)
+- [Coming Soon](201/201-class04.md)
+- [Coming Soon](201/201-class05.md)
+- [Coming Soon](201/201-class06.md)
+- [Coming Soon](201/201-class07.md)
+- [Coming Soon](201/201-class08.md)
+- [Coming Soon](201/201-class09.md)
+- [Coming Soon](201/201-class10.md)
+- [Coming Soon](201/201-class11.md)
+- [Coming Soon](201/201-class12.md)
+- [Coming Soon](201/201-class13.md)
+- [Coming Soon](201/201-class14.md)
+- [Coming Soon](201/201-class15.md)
