@@ -1,5 +1,5 @@
 <!-- Should center and size this image -->
-![Jace's Avatar](pic.png)
+![Jace's Avatar](assets/pic.png)
 
 # Reading Notes (a journal of sorts)
 
