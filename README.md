@@ -31,7 +31,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [Learning Markdown](102/102-class01.md)
 - [The Coder's Computer](102/102-class02.md)
 - [Revisions and the Cloud (Git)](102/102-class03.md)
-- [Coming Soon](102/102-class04.md)
+- [Structure web pages with HTML](102/102-class04.md)
 - [Coming Soon](102/102-class05.md)
 - [Coming Soon](102/102-class06.md)
 - [Coming Soon](102/102-class07.md)
