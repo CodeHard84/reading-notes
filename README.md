@@ -26,7 +26,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 
 ## Further Reading Table of Contents
 
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 - [Learning Markdown](102/102-class01.md)
 - [The Coder's Computer](102/102-class02.md)
@@ -37,7 +37,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [Programming with JavaScript](102/102-class07.md)
 - [Operators and Loops](102/102-class08.md)
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 
 - [Coming Soon](201/201-class01.md)
 - [Coming Soon](201/201-class02.md)
@@ -54,3 +54,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [Coming Soon](201/201-class13.md)
 - [Coming Soon](201/201-class14.md)
 - [Coming Soon](201/201-class15.md)
+
+### Code 301 - Intermediate Software Development
+
+### Code 401 - Advanced Software Development
