@@ -39,7 +39,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 
 ### Code 201 - Foundations of Software Development
 
-- [Coming Soon](201/201-class01.md)
+- [Setup Developer Toolbelt](201/201-class01.md)
 - [Coming Soon](201/201-class02.md)
 - [Coming Soon](201/201-class03.md)
 - [Coming Soon](201/201-class04.md)
