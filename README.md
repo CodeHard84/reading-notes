@@ -41,7 +41,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 
 - [Setup Developer Toolbelt](201/201-class01.md)
 - [Introduction To Web Development](201/201-class02.md)
-- [Coming Soon](201/201-class03.md)
+- [Lists, The Box Model, and Loops](201/201-class03.md)
 - [Coming Soon](201/201-class04.md)
 - [Coming Soon](201/201-class05.md)
 - [Coming Soon](201/201-class06.md)
