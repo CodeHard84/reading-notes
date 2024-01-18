@@ -43,7 +43,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [Introduction To Web Development](201/201-class02.md)
 - [Lists, The Box Model, and Loops](201/201-class03.md)
 - [Links, Layouts, and Functions](201/201-class04.md)
-- [Coming Soon](201/201-class05.md)
+- [Images, Color, Text, and More Work With Functions](201/201-class05.md)
 - [Coming Soon](201/201-class06.md)
 - [Coming Soon](201/201-class07.md)
 - [Coming Soon](201/201-class08.md)
