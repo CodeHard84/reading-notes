@@ -46,7 +46,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [Images, Color, Text, and More Work With Functions](201/201-class05.md)
 - [Domain Modeling, Intro to the DOM, and Object Literal Notation](201/201-class06.md)
 - [HTML Tables and JS Constructor Functions](201/201-class07.md)
-- [Coming Soon](201/201-class08.md)
+- [Layout with CSS](201/201-class08.md)
 - [Coming Soon](201/201-class09.md)
 - [Coming Soon](201/201-class10.md)
 - [Coming Soon](201/201-class11.md)
