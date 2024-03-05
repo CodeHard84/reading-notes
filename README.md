@@ -51,7 +51,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [Debugging](201/201-class10.md)
 - [Audio and Video in HTML; Domain Modeling Revisited](201/201-class11.md)
 - [Canvas and ChartJS](201/201-class12.md)
-- [Coming Soon](201/201-class13.md)
+- [Local Storage](201/201-class13.md)
 - [Coming Soon](201/201-class14.md)
 - [Coming Soon](201/201-class15.md)
 
