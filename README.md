@@ -52,7 +52,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [Audio and Video in HTML; Domain Modeling Revisited](201/201-class11.md)
 - [Canvas and ChartJS](201/201-class12.md)
 - [Local Storage](201/201-class13.md)
-- [Coming Soon](201/201-class14.md)
+- [Documentation, Project Selection, & Team Workflow](201/201-class14.md)
 - [Coming Soon](201/201-class15.md)
 
 ### Code 301 - Intermediate Software Development
