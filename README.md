@@ -54,7 +54,6 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [Local Storage](201/201-class13.md)
 - [Documentation, Project Selection, & Team Workflow](201/201-class14.md)
 - [Psychological Safety](201/201-class14-1.md)
-- [Coming Soon](201/201-class15.md)
 
 ### Code 301 - Intermediate Software Development
 
