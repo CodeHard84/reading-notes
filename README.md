@@ -63,6 +63,6 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 
 ### What is my Why?
 
-![Easton](assets/eas.jpg){width=250 height=250}
+<img src="assets/eas.jpg" width="250" height="250">
 
 Everything I do, I do with this guy in mind.
