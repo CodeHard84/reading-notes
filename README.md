@@ -66,7 +66,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 ### What is my Why?
 
 <div style="display: flex;">
-    <img src="assets/eas.jpg" width="350" height="350">
+    <img src="assets/eas.jpg" width="350" height="350" style="margin-right: 10px;">
     <img src="assets/bre.jpg" width="350" height="350">
 </div>
 
