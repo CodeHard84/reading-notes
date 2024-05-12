@@ -71,4 +71,4 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
     <img src="assets/bre.jpg" width="350" height="350">
 </div>
 
-Everything I do, I do with these guys in mind.
+Everything I tackle in life, I do with these little rascals in mind. Thankfully, the universe has been kind they look like their mom! Seriously, we dodged a bullet there. Can you imagine a mini-me army? Halloween would just be another Tuesday. =)
