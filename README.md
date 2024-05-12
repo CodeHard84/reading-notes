@@ -58,6 +58,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 ### Code 301 - Intermediate Software Development
 
 - [Component-Based Architecture & Props in React](301/301-class01.md)
+- [State and Props](301/301-class02.md)
 
 ### Code 401 - Advanced Software Development
 
