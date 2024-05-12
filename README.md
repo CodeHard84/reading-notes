@@ -59,6 +59,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 
 - [Component-Based Architecture & Props in React](301/301-class01.md)
 - [State and Props](301/301-class02.md)
+- [Passing Functions as Props](301/301-class03.md)
 
 ### Code 401 - Advanced Software Development
 
