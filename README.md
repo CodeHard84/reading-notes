@@ -60,6 +60,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [Component-Based Architecture & Props in React](301/301-class01.md)
 - [State and Props](301/301-class02.md)
 - [Passing Functions as Props](301/301-class03.md)
+- [React and Forms](301/301-class04.md)
 
 ### Code 401 - Advanced Software Development
 
@@ -69,6 +70,5 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
     <img src="assets/eas.jpg" width="350" height="350" style="margin-right: 10px;">
     <img src="assets/bre.jpg" width="350" height="350">
 </div>
-
 
 Everything I do, I do with these guys in mind.
