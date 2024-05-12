@@ -65,6 +65,10 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 
 ### What is my Why?
 
-<img src="assets/eas.jpg" width="350" height="350">
+<div style="display: flex;">
+    <img src="assets/eas.jpg" width="350" height="350">
+    <img src="assets/bre.jpg" width="350" height="350">
+</div>
 
-Everything I do, I do with this guy in mind.
+
+Everything I do, I do with these guys in mind.
