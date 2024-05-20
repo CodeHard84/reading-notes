@@ -62,6 +62,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [Passing Functions as Props](301/301-class03.md)
 - [React and Forms](301/301-class04.md)
 - [Putting it all together](301/301-class05.md)
+- [REST](301/301-class06.md)
 
 ### Code 401 - Advanced Software Development
 
