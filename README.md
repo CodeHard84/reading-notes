@@ -65,6 +65,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [REST](301/301-class06.md)
 - [Node.js](301/301-class07.md)
 - [APIs](301/301-class08.md)
+- [Functional Programming](301/301-class09.md)
 
 ### Code 401 - Advanced Software Development
 
