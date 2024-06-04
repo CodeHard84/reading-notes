@@ -68,6 +68,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [Functional Programming](301/301-class09.md)
 - [In Memory Storage](301/301-class10.md)
 - [MongoDB and Mongoose](301/301-class11.md)
+- [Oh, CRUD](301/301-class12.md)
 
 ### Code 401 - Advanced Software Development
 
