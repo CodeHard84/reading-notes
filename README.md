@@ -71,6 +71,7 @@ The growth mindset challenges the old adage "You can't teach an old dog new tric
 - [Oh, CRUD](301/301-class12.md)
 - [More CRUD](301/301-class13.md)
 - [Diversity, Equity, Inclusion, and Belonging](301/301-class14.md)
+- [Authentication](301/301-class15.md)
 
 ### Code 401 - Advanced Software Development
 
